@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.clase{
+    font-weight: bolder;
+    color: blueviolet;
+}
+#idparacasoespecial{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: cadetblue; 
+}
+.skills{
+    color: green;
+}
